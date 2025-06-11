@@ -1,0 +1,29 @@
+.contador-container, .lista-container {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.botao {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #e0e0e0;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.incremento {
+  background-color: lightgreen;
+}
+
+.decremento {
+  background-color: lightcoral;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
